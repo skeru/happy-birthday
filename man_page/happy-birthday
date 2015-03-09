@@ -1,0 +1,15 @@
+.TH man 6 "09 Mar 2015" "1.0" "Happy Birthday man page"
+.SH NAME
+happy\-birthday \- wish you happy birthday, man!
+.SH SYNOPSIS
+happy\-birthday [YourName]
+.SH DESCRIPTION
+Today is your birthday! Happy birthday, man! It is important to be happy in such a day. All your frinds wish you a very nice day... and bash is your friend too! Let's enjoy together this moment.
+.LP 
+*****HAPPY BIRTHDAY*****
+.LP
+Wish you one hundred days like this and many more!
+.BUGS
+You should probably go out and drink something with your real-life friends instead of reading these lines.
+.SH AUTHOR
+Stefano Cherubin (github.com/skeru)
